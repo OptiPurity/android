@@ -430,6 +430,5 @@
   <project path="device/samsung/msm8660-common" name="Hellybean/android_device_samsung_msm8660-common" />
   <project path="device/samsung/celox-common" name="Hellybean/android_device_samsung_celox-common" />
   <project path="device/samsung/qcom-common" name="Hellybean/android_device_samsung_qcom-common" />
-  
-
+</manifest>
 
