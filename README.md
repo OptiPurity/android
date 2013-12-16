@@ -1,4 +1,6 @@
-LINARO HELLYBEAN MANIFEST
+Misc Project Manifest
+
+* Note: This manifest may or may not be working. This is my testing manifest repo before I make any changes to any other repo. 
 
 To initialize your local repository use
 
