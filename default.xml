@@ -440,6 +440,6 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="vendor/lge" name="android_vendor_lge" remote="rascarlo" revision="kk-ras-mr1.2_r2" />
-  <project path="vendor/rascarlo" name="android_vendor_rascarlo" remote="lichti1901" revision="lichti" />
+  <project path="vendor/rascarlo" name="Cl3Kener/vendor" remote="gh" revision="master" />
 
 </manifest>
