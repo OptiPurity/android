@@ -12,7 +12,7 @@
            fetch="https://github.com/" />
   <remote  name="ln"
            fetch="git://android.git.linaro.org/" />
-  <default revision="refs/tags/android-4.4.2_r2"
+  <default revision="refs/tags/android-4.4.2_r1"
            remote="aosp"
            sync-j="4" />
 
