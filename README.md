@@ -1,10 +1,10 @@
-Misc Project Manifest
+OptiPurity Manifest
 
-* Note: This manifest may or may not be working. This is my testing manifest repo before I make any changes to any other repo. 
+An opticharged and optimized version of Purity.  
 
 To initialize your local repository use
 
-    repo init -u https://github.com/Cl3Kener/manifest.git -b master
+    repo init -u https://github.com/OptiPurity/android.git -b kitkat
     
 
 Then to sync up:
@@ -13,12 +13,12 @@ Then to sync up:
 
 
 Build commands are
-   
-    vendor/cm/get-prebuilts
     
     . build/envsetup.sh
     
-    brunch <DEVICE> 
+    lunch
+
+    mka bacon 
 
 
 
