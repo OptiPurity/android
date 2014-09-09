@@ -4,7 +4,7 @@ An opticharged and optimized version of Purity.
 
 To initialize your local repository use
 
-    repo init -u https://github.com/OptiPurity/android.git -b kitkat
+    repo init -u https://github.com/OptiPurity/android.git -b dark
     
 
 Then to sync up:
