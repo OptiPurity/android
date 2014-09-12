@@ -355,7 +355,7 @@
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="platform_packages_providers_ContactsProvider" remote="kitkatpurity" revision="kitkat" />
   <project path="packages/providers/DownloadProvider" name="platform_packages_providers_DownloadProvider" remote="kitkatpurity" revision="kitkat" />
-  <project path="packages/providers/MediaProvider" name="platform_packages_providers_MediaProvider" remote="kitkatpurity" revision="kitkat" />
+  <project path="packages/providers/MediaProvider" name="AOSPA/android_packages_providers_MediaProvider" remote="gh" revision="kitkat" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="platform_packages_providers_TelephonyProvider" remote="kitkatpurity" revision="kitkat" />
   <project path="packages/providers/ThemesProvider" name="CyanogenMod/android_packages_providers_ThemesProvider" remote="github" revision="cm-11.0"/>
