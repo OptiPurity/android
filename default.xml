@@ -311,16 +311,16 @@
   <project path="packages/apps/Camera2" name="OptiPurity/packages_apps_Camera2" remote="gh" revision="kitkat" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
-  <project path="packages/apps/Contacts" name="platform_packages_apps_Contacts" remote="kitkatpurity" revision="kitkat" />
-  <project path="packages/apps/ContactsCommon" name="platform_packages_apps_ContactsCommon" remote="kitkatpurity" revision="kitkat" />
+  <project path="packages/apps/Contacts" name="OptiPurity/packages_apps_Contacts" remote="gh" revision="kitkat" />
+  <project path="packages/apps/ContactsCommon" name="OptiPurity/packages_apps_ContactsCommon" remote="gh" revision="kitkat" />
   <project path="packages/apps/DeskClock" name="platform_packages_apps_DeskClock" remote="kitkatpurity" revision="kitkat" />
-  <project path="packages/apps/Dialer" name="platform_packages_apps_Dialer" remote="kitkatpurity" revision="kitkat" />
+  <project path="packages/apps/Dialer" name="OptiPurity/packages_apps_Dialer" remote="gh" revision="kitkat" />
   <project path="packages/apps/Email" name="platform/packages/apps/Email" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
-  <project path="packages/apps/InCallUI" name="platform_packages_apps_InCallUI" remote="kitkatpurity" revision="kitkat" />
+  <project path="packages/apps/InCallUI" name="OptiPurity/packages_apps_InCallUI" remote="gh" revision="kitkat" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="packages/apps/Launcher3" name="OptiPurity/packages_apps_Launcher3" remote="gh" revision="kitkat" />
