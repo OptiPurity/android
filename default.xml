@@ -305,7 +305,7 @@
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="platform_packages_apps_Bluetooth" remote="kitkatpurity" revision="kitkat" />
   <project path="packages/apps/Browser" name="OptiPurity/packages_apps_Browser" remote="gh" revision="kitkat" />
-  <project path="packages/apps/Calculator" name="OptiPurity/packages_apps_Calculator" remote="gh" revision="kitkat" />
+  <project path="packages/apps/Calculator" name="OptiPurity/packages_apps_Calculator" remote="gh" revision="dark" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
   <project path="packages/apps/Camera" name="platform/packages/apps/Camera" />
   <project path="packages/apps/Camera2" name="OptiPurity/packages_apps_Camera2" remote="gh" revision="kitkat" />
