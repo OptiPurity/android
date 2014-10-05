@@ -425,7 +425,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/core" name="OptiPurity/android_system_core" groups="pdk" remote="gh" revision="kitkat" />
-  <project path="system/extras" name="platform_system_extras" groups="pdk" remote="kitkatpurity" revision="kitkat" />
+  <project path="system/extras" name="OptiPurity/android_system_extras" groups="pdk" remote="gh" revision="kitkat" />
   <project path="system/media" name="platform/system/media" groups="pdk" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
