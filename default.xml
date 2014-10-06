@@ -423,5 +423,5 @@
 
   <!-- Purity extra-projects -->
   <project path="vendor/lge" name="platform_vendor_lge" remote="kitkatpurity" revision="kitkat" />
-  <project path="vendor/purity" name="OptiPurity/vendor" remote="gh" revision="kitkat" />
+  <project path="vendor/purity" name="OptiPurity/vendor" remote="gh" revision="dark" />
 </manifest>
