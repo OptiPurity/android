@@ -320,8 +320,7 @@
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
   <project path="packages/apps/Torch" name="OptiPurity/packages_apps_Torch" remote="gh" revision="kitkat" />
   <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" />
-  <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" />
-  <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
+  <project path="packages/inputmethods/LatinIME" name="OptiPurity/packages_inputmethods_LatinIME" remote="gh" revision="kitkat" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="platform_packages_providers_ContactsProvider" remote="kitkatpurity" revision="kitkat" />
