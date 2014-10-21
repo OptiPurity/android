@@ -22,7 +22,7 @@
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
   <project path="art" name="OptiPurity/art" remote="gh" revision="kitkat" />
-  <project path="bionic" name="LiquidSmooth/android_bionic" groups="pdk" remote="gh" revision="kitkat" />
+  <project path="bionic" name="AOSPAL/android_bionic" groups="pdk" remote="gh" revision="kitkat" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="Cl3Kener/recovery" groups="pdk" remote="gh" revision="master" />
