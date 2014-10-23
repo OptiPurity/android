@@ -10,10 +10,6 @@
            review="review.cyanogenmod.com" />
   <remote  name="gh"
            fetch="https://github.com/" />
-  <remote  name="sd"
-           fetch="https://github.com/SaberDroid/" />
-  <remote  name="ST"
-           fetch="https://bitbucket.org/SaberTeam/" />
   <remote  name="ln"
            fetch="git://android.git.linaro.org/" />
   <default revision="refs/tags/android-4.4.4_r2"
@@ -349,9 +345,10 @@
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" groups="pdk,linux" />
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" groups="pdk,linux" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" groups="pdk,linux" />
-  <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-4.8" name="x86_64-linux-4.8" remote="sd" revision="master" groups="pdk,linux" />
-  <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-4.9" name="x86_64-linux-4.9" remote="ST" revision="master" groups="pdk,linux" />
-  <project path="prebuilts/gcc/linux-x86/host/i686-linux-4.8" name="i686-linux-4.8" remote="sd" revision="master" groups="pdk,linux" />
+  <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" groups="pdk,linux,mips" />
+  <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7" name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7" groups="pdk,linux,mips" />
+  <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" groups="pdk,linux,x86" />
+  <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" groups="pdk,linux,x86" />
   <project path="prebuilts/gradle-plugin" name="platform/prebuilts/gradle-plugin" />
   <project path="prebuilts/maven_repo/android" name="platform/prebuilts/maven_repo/android" />
   <project path="prebuilts/misc" name="platform_prebuilts_misc" groups="pdk" remote="kitkatpurity" revision="kitkat" />
